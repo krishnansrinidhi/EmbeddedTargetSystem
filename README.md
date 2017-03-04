@@ -8,7 +8,7 @@
 
 *Diagnostic tools like Oscilloscopes, Logic Analyser, Multimeters etc. could be used to ensure the System’s proper functioning.
 
-*This Embedded Target System has the following interfaces:
+*The Embedded Target System has the following interfaces:
 ● 8 Open collector drivers
 ● H-Bridge driver
 ● Tachometer interface
